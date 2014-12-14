@@ -1,0 +1,6 @@
+[lbservers]
+127.0.0.1
+[local]
+127.0.0.1
+[webservers]
+127.0.0.1
